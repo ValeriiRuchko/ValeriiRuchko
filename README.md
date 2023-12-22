@@ -60,7 +60,7 @@
 <br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeriiruchko&size_weight=0.5&count_weight=0.5&layout=donut-vertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeriiruchko&size_weight=0.5&count_weight=0.5&layout=pie)
 
 <!--
 **ValeriiRuchko/ValeriiRuchko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
