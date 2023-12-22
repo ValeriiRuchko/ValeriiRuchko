@@ -5,7 +5,24 @@
 <h2>My tech stack:</h2>
 <ol>
   <li><h3>Programming languages:</h3></li>
-  <p>- TypeScript / JavaScript</p>
+  <table>
+  <tr>
+<th>Name</th>
+<th>Status</th>
+</tr>
+<tr>
+<td>TypeScript / JavaScript</td>
+<td>Main languages, in active use</td>
+</tr>
+<tr>
+<td>Golang</td>
+<td>Actively learning and making side projects with it</td>
+</tr>
+<tr>
+<td>Python</td>
+<td>Knowledge of basics, used in university</td>
+</tr>
+  </table>
 </ol>
 <!--
 **ValeriiRuchko/ValeriiRuchko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
