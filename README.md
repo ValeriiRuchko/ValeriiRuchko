@@ -2,6 +2,8 @@
 	<h1> Hi, I am a <em>FullStack Web-Developer</em>, who loves coding and everything related to it 👀 </h1>
 		<p>I'm currently learning and enhancing my skills, while trying to land a job and keep everything as fun as possible 💃</p>
 </div>
+<h4>Currently volunteering on the rework of the website for <a href="https://navzaem.com/">Navzaem</a></h4>
+<h4>Also I'm in active search for a job, so if you have possible openings, you can contact me at <mail>valerii.ruchko@gmail.com</mail></h4>
 <h2>My tech stack:</h2>
 <ol>
   <li><h3>Programming languages:</h3></li>
@@ -47,8 +49,15 @@
 		<li>npm / pnpm</li>
 		<li>Vite</li>
 		<li>Vitest</li>
+		<li>HTTPie (alternative to Postman)</li>
 	</ul>
 </ol>
+
+<h5>As my main IDE I use AstroNvim, but VSCode is also fine.</h5>
+<p>** Though I won't share my dot-files for now, as it is not so far from the default they provide :D</p>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriiruchko)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ValeriiRuchko/ValeriiRuchko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
