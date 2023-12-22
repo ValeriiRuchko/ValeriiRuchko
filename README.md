@@ -1,7 +1,12 @@
 <div align="center">
 <h1> Hi, I am a <em>FullStack Web-Developer</em>, who loves coding and everything related to it 👀 </h1>
-<p>Currently learning and enhancing my skills, while trying to land a job and keep everything as fun as possible 💃</p>
+<p>I'm currently learning and enhancing my skills, while trying to land a job and keep everything as fun as possible 💃</p>
 </div>
+<h2>My tech stack:</h2>
+<ol>
+  <li><h3>Programming languages:</h3></li>
+  <p>- TypeScript / JavaScript</p>
+</ol>
 <!--
 **ValeriiRuchko/ValeriiRuchko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
