@@ -3,7 +3,7 @@
 		<p>I'm currently learning and enhancing my skills, while trying to land a job and keep everything as fun as possible 💃</p>
 
 <h4>Currently volunteering on the rework of the website for <a href="https://navzaem.com/">Navzaem</a></h4>
-<h4>Also I'm in active search for a job, so if you have possible openings, you can contact me at <mail>valerii.ruchko@gmail.com</mail></h4>
+<h4>Also I'm in active search for a job, so if you have possible openings, you can contact me at <a href="mailto:valerii.ruchko@gmail.com">valerii.ruchko@gmail.com</a></h4>
 </div>
 <h2>My tech stack:</h2>
 <ol>
