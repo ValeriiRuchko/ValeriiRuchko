@@ -54,8 +54,11 @@
 	</ul>
 </ol>
 
-<h3>As my main IDE I use AstroNvim, but VSCode is also fine.</h3>
-<aside>Though I won't share my dot-files for now, as it is not so far from the default they provide :D</aside>
+<p>As my main IDE I use AstroNvim, but VSCode is also fine. <aside>Though I won't share my dot-files for now, as it is not so far from the default they provide :D</aside></p>
+
+<hr/>
+<br/>
+
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriiruchko)](https://github.com/anuraghazra/github-readme-stats)
 
