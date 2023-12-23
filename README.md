@@ -7,7 +7,7 @@
 </div>
 <h2>My tech stack:</h2>
 
-  1. <h3>Programming languages:</h3>
+  1. ### Programming languages:
 		<table>
 			<tr>
 				<th>Name</th>
@@ -26,26 +26,26 @@
 				<td>Knowledge of basics, used in university</td>
 			</tr>
 		</table>
-2. <h3>Frontend:</h3>
+2. ### Frontend:
 	<ul>
 		<li>HTML / CSS / SCSS / SASS</li>
 		<li>React / ReactRouter / ReactQuery </li>
 		<li>Next.js</li>
 	</ul>
-3. <h3>Backend:</h3> 
+3. ### Backend:
 	<ul>
 		<li>Node.js</li>
 		<li>Express.js</li>
 		<li>Fastify</li>
 		<li>Socket.io</li>
 	</ul>
-4. <h3>DB's + ORM's:</h3>
+4. ### DB's + ORM's:
 	<ul>
 		<li>PostgreSQL</li>
 		<li>TypeORM / DrizzleORM / Prisma</li>
 		<li>SQLite</li>
 	</ul>
-5. <h3>Other:</h3> 
+5. ### Other:
 	<ul>
 		<li>npm / pnpm</li>
 		<li>Vite</li>
