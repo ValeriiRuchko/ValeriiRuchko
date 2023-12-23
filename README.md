@@ -26,26 +26,26 @@
 				<td>Knowledge of basics, used in university</td>
 			</tr>
 		</table>
-2. ### Frontend:
+### 2. Frontend:
 	<ul>
 		<li>HTML / CSS / SCSS / SASS</li>
 		<li>React / ReactRouter / ReactQuery </li>
 		<li>Next.js</li>
 	</ul>
-3. ### Backend:
+### 3. Backend:
 	<ul>
 		<li>Node.js</li>
 		<li>Express.js</li>
 		<li>Fastify</li>
 		<li>Socket.io</li>
 	</ul>
-4. ### DB's + ORM's:
+ ### 4. DB's + ORM's:
 	<ul>
 		<li>PostgreSQL</li>
 		<li>TypeORM / DrizzleORM / Prisma</li>
 		<li>SQLite</li>
 	</ul>
-5. ### Other:
+ ### 5. Other:
 	<ul>
 		<li>npm / pnpm</li>
 		<li>Vite</li>
