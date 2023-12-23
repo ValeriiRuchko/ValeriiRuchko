@@ -7,7 +7,7 @@
 </div>
 <h2>My tech stack:</h2>
 
-  1. ### Programming languages:
+### 1. Programming languages:
 		<table>
 			<tr>
 				<th>Name</th>
