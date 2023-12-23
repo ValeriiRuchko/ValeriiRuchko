@@ -6,8 +6,8 @@
 <h4>Also I'm in active search for a job, so if you have possible openings, you can contact me at <a href="mailto:valerii.ruchko@gmail.com">valerii.ruchko@gmail.com</a></h4>
 </div>
 <h2>My tech stack:</h2>
-<ol>
-  <li><h3>Programming languages:</h3></li>
+
+  1. <h3>Programming languages:</h3>
 		<table>
 			<tr>
 				<th>Name</th>
@@ -26,33 +26,33 @@
 				<td>Knowledge of basics, used in university</td>
 			</tr>
 		</table>
-	<li><h3>Frontend:</h3></li>
+2. <h3>Frontend:</h3>
 	<ul>
 		<li>HTML / CSS / SCSS / SASS</li>
 		<li>React / ReactRouter / ReactQuery </li>
 		<li>Next.js</li>
 	</ul>
-	<li><h3>Backend:</h3></li>
+3. <h3>Backend:</h3> 
 	<ul>
 		<li>Node.js</li>
 		<li>Express.js</li>
 		<li>Fastify</li>
 		<li>Socket.io</li>
 	</ul>
-	<li><h3>DB's + ORM's:</h3></li>
+4. <h3>DB's + ORM's:</h3>
 	<ul>
 		<li>PostgreSQL</li>
 		<li>TypeORM / DrizzleORM / Prisma</li>
 		<li>SQLite</li>
 	</ul>
-	<li><h3>Other:</h3></li>
+5. <h3>Other:</h3> 
 	<ul>
 		<li>npm / pnpm</li>
 		<li>Vite</li>
 		<li>Vitest</li>
 		<li>HTTPie (alternative to Postman)</li>
 	</ul>
-</ol>
+
 
 <p>As my main IDE I use AstroNvim, but VSCode is also fine. <aside>Though I won't share my dot-files for now, as it is not so far from the defaults they provide :D</aside></p>
 
