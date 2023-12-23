@@ -1,6 +1,6 @@
 <div align="center">
-	<h1> Hi, I am a <em>FullStack Web-Developer</em>, who loves coding and everything related to it 👀 </h1>
-		<p>I'm currently learning and enhancing my skills, while trying to land a job and keep everything as fun as possible 💃</p>
+# Hi, I am a <em>FullStack Web-Developer</em>, who loves coding and everything related to it 👀
+I'm currently learning and enhancing my skills, while trying to land a job and keep everything as fun as possible 💃
 
 ***Currently volunteering on the rework of the website for <a href="https://navzaem.com/">Navzaem</a>***
 ***Also I'm in active search for a job, so if you have possible openings, you can contact me at <a href="mailto:valerii.ruchko@gmail.com">valerii.ruchko@gmail.com</a>***
@@ -27,35 +27,33 @@
 			<td>Knowledge of basics, used in university</td>
 		</tr>
 </table>
+
 ### 2. Frontend:
-	<ul>
-		<li>HTML / CSS / SCSS / SASS</li>
-		<li>React / ReactRouter / ReactQuery </li>
-		<li>Next.js</li>
-	</ul>
+- HTML / CSS / SCSS / SASS
+- React / ReactRouter / ReactQuery
+- Next.js
+	
 ### 3. Backend:
-	<ul>
-		<li>Node.js</li>
-		<li>Express.js</li>
-		<li>Fastify</li>
-		<li>Socket.io</li>
-	</ul>
+- Node.js
+- Express.js
+- Fastify
+- Socket.io
+
 ### 4. DB's + ORM's:
-	<ul>
-		<li>PostgreSQL</li>
-		<li>TypeORM / DrizzleORM / Prisma</li>
-		<li>SQLite</li>
-	</ul>
+- PostgreSQL
+- TypeORM / DrizzleORM / Prisma
+- SQLite
+
 ### 5. Other:
-	<ul>
-		<li>npm / pnpm</li>
-		<li>Vite</li>
-		<li>Vitest</li>
-		<li>HTTPie (alternative to Postman)</li>
-	</ul>
+- npm / pnpm
+- Vite
+- Vitest
+- HTTPie (alternative to Postman)
 
 
-<p>As my main IDE I use AstroNvim, but VSCode is also fine. <aside>Though I won't share my dot-files for now, as it is not so far from the defaults they provide :D</aside></p>
+
+As my main IDE I use AstroNvim, but VSCode is also fine.
+Though I won't share my dot-files for now, as it is not so far from the defaults they provide :D
 
 <hr/>
 <br/>
