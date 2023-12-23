@@ -3,7 +3,8 @@
 		<p>I'm constantly learning and enhancing my skills, while trying to land a job and keep everything as fun as possible 💃</p>
 
 ***Currently volunteering on the rework of the website for <a href="https://navzaem.com/">Navzaem. </a>***
-*** Also I'm in active search for a job, so if you have possible openings, you can contact me at <a href="mailto:valerii.ruchko@gmail.com">valerii.ruchko@gmail.com</a>***
+<br/>
+***Also I'm in active search for a job, so if you have possible openings, you can contact me at <a href="mailto:valerii.ruchko@gmail.com">valerii.ruchko@gmail.com</a>***
 </div>
 
 ## My tech stack:
