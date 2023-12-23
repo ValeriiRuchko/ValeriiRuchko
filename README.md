@@ -28,31 +28,31 @@
 		</tr>
 </table>
 ### 2. Frontend:
-<ul>
+	<ul>
 		<li>HTML / CSS / SCSS / SASS</li>
 		<li>React / ReactRouter / ReactQuery </li>
 		<li>Next.js</li>
-</ul>
+	</ul>
 ### 3. Backend:
-<ul>
+	<ul>
 		<li>Node.js</li>
 		<li>Express.js</li>
 		<li>Fastify</li>
 		<li>Socket.io</li>
-</ul>
+	</ul>
 ### 4. DB's + ORM's:
-<ul>
+	<ul>
 		<li>PostgreSQL</li>
 		<li>TypeORM / DrizzleORM / Prisma</li>
 		<li>SQLite</li>
-</ul>
+	</ul>
 ### 5. Other:
-<ul>
+	<ul>
 		<li>npm / pnpm</li>
 		<li>Vite</li>
 		<li>Vitest</li>
 		<li>HTTPie (alternative to Postman)</li>
-</ul>
+	</ul>
 
 
 <p>As my main IDE I use AstroNvim, but VSCode is also fine. <aside>Though I won't share my dot-files for now, as it is not so far from the defaults they provide :D</aside></p>
