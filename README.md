@@ -1,7 +1,6 @@
 <div align="center">
 	<h1> Hi, I am a <em>FullStack Web-Developer</em>, who loves coding and everything related to it 👀 </h1>
 		<p>I'm constantly learning and enhancing my skills, while trying to land a job and keep everything as fun as possible 💃</p>
-<br/>
 	
 ***I'm in active search for a job, so if you have possible openings, you can contact me at <a href="mailto:valerii.ruchko@gmail.com">valerii.ruchko@gmail.com</a>***
 </div>
